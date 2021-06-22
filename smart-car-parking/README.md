@@ -19,15 +19,14 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url
 [![MIT License][license-shield]][license-url]]-->
-[![YouTube][youtube-shield]][youtube-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/anil2k/smart-car-parking-yolov5">
+  <a href="https://github.com/chintanrabadiya/smart-car-parking-yolo/edit/main/smart-car-parking">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -36,14 +35,14 @@
   <p align="center">
     An awesome project to jumpstart your own car parking projects !
     <br />
-    <a href="https://github.com/anil2kk/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/chintanrabadiya/smart-car-parking-yolo/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/anil2k/smart-car-parking-yolov5/issues">View Demo</a>
+    <a href="https://github.com/chintanrabadiya/smart-car-parking-yolo/issue">View Demo</a>
     ·
-    <a href="https://github.com/anil2k/smart-car-parking-yolov5/issues">Report Bug</a>
+    <a href="https://github.com/chintanrabadiya/smart-car-parking-yolo/issue">Report Bug</a>
     ·
-    <a href="https://github.com/anil2k/smart-car-parking-yolov5/issues">Request Feature</a>
+    <a href="https://github.com/chintanrabadiya/smart-car-parking-yolo/issue  ">Request Feature</a>
   </p>
 </p>
 
@@ -135,7 +134,7 @@ tqdm>=4.41.0
 1. Set root directory
 2. Clone the repo
    ```sh
-   git clone https://github.com/anil2k/smart-car-parking-yolov5.git
+   git clone https://github.com/chintanrabadiya/smart-car-parking-yolo/edit/main/smart-car-parking/smart-car-parking-yolov5.git
    ```
 3. Set directory for yolov5
    ```sh
@@ -153,16 +152,14 @@ tqdm>=4.41.0
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_To run into google colab please refer notebook [Car_Parking_Custom-Yolo-V5.ipynb](https://github.com/anil2k/smart-car-parking-yolov5/blob/main/Car_Parking_Custom-Yolo-V5.ipynb)_
-
-_For more examples, please refer to the [Documentation](https://github.com/ultralytics/yolov5)_
+_To run into google colab please refer notebook [Car_Parking_Custom-Yolo-V5.ipynb](https://github.com/chintanrabadiya/smart-car-parking-yolo/tree/main/smart-car-parking/Car_Parking_Custom-Yolo-V5.ipynb)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/anil2k/smart-car-parking-yolov5/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/chintanrabadiya/smart-car-parking-yolo/issue) for a list of proposed features (and known issues).
 
 
 
@@ -190,32 +187,10 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-Project Link: [https://github.com/anil2k/smart-car-parking-yolov5](https://github.com/anil2k/smart-car-parking-yolov5)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [ultralytics/yolov5](https://github.com/anil2k/smart-car-parking-yolov5)
+Project Link: [https://github.com/chintanrabadiya/smart-car-parking-yolo/tree/main/smart-car-parking](https://github.com/chintanrabadiya/smart-car-parking-yolo/tree/main/smart-car-parking)
 
 
 
 
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/anil2k/smart-car-parking-yolov5/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/anil2k/smart-car-parking-yolov5/network
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-
-[youtube-shield]: https://img.shields.io/badge/-youtube-black.svg?style=for-the-badge&logo=youtube&colorR=555
-[youtube-url]: https://www.youtube.com/watch?v=B0EuijnaCqU&ab_channel=RelaxingNature
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]:  https://linkedin.com/in/anil2kk
 [product-screenshot]: park.gif
